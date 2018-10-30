@@ -19,7 +19,7 @@
     "package.json"
   ],
   "repository": "google/google-api-nodejs-client",
-  "name": "googleapis",
+  "name": "googleapis-latest",
   "contributors": [
     {
       "email": "jbd@google.com",
